@@ -20,4 +20,4 @@ Feature: Verificar Cotação de Passagens aéreas
     
     Examples: 
     				|cenario         |site                            |origem         |destino   |dataIda        |dataVolta       |
-    			  |Cotação DECOLAR | https://www.decolar.com        |Ribeirão Preto |Navegantes|3              |1              |
+    			  |Cotação DECOLAR | https://www.decolar.com        |Ribeirão Preto |Navegantes|3              |99              |
